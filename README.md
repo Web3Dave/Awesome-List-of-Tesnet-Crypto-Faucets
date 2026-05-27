@@ -1,5 +1,5 @@
 # Awesome List of Tesnet Crypto Faucets
-A curated list of popular, working and free Testnet Faucets (all **easy**, **fast** and **safe** to use, **without ads**) to get Testnet ETH and Tokens in 2025 
+A curated list of popular, working and free Testnet Faucets (all **easy**, **fast** and **safe** to use, **without ads**) to get Testnet ETH and Tokens in 2026. 
 
 # What is a testnet (Sepolia, Holesky, Mumbai etc)?
 Short for "test network" a network used to simulate the behavior of the main network (for example **Ethereum**, **Base**, **Polygon** etc).
@@ -53,5 +53,5 @@ Get 0.25 Sepolia ETH every 12 hours. You need to have Ethereum mainnet balance o
 | [Google](https://cloud.google.com/application/web3/faucet) | 0.05 ETH | 24h | ❌ (Google Account) | ✅ | None | ❌ | ✅ May 2026 |
 | [Learnweb3](https://learnweb3.io/faucets/sepolia/) | 0.02 ETH | 24h | ❌ (Stacks-compatible wallet is needed for sign up) | ✅ | ❌ (GitHub Account) | ❌ | ✅ May 2026 |
 | [Metamask](https://docs.metamask.io/developer-tools/faucet/) | 0–0.5 ETH | dynamic | ❌ (Metamask) | ❌ | Developer Dashboard account | ❌ | ✅ May 2026 |
-| [PoWFaucet](https://sepolia-faucet.pk910.de/) | varies | 24h+ | ✅ | ✅ | CPU mining | ✅ [repo](https://github.com/pk910/PoWFaucet) | ✅ Aug 2025 |
+| [PoWFaucet](https://sepolia-faucet.pk910.de/) | varies | 24h+ | ✅ | ✅ | CPU mining | ✅ [repo](https://github.com/pk910/PoWFaucet) | ✅ May 2026 |
 | [Quicknode](https://faucet.quicknode.com/ethereum/sepolia) | 0.25 ETH | 12h | ✅ | ❌ (0.001 ETH) | None | ❌ | ❓ May 2026 (to rec-check) |
