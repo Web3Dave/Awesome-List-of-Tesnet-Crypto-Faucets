@@ -42,6 +42,9 @@ Mine with CPU Sepolia ETH. Current difficulty is high (>438 kH/s).
 ### [Quicknode Sepolia ETH Faucet](https://faucet.quicknode.com/ethereum/sepolia)
 Get 0.25 Sepolia ETH every 12 hours. You need to have Ethereum mainnet balance of 0.001 ETH.
 
+### [Openfaucet.org](https://openfaucet.org/ethereum-sepolia)
+Get 0.01 Sepolia ETH per claim (4 claims/hour). No mainnet requirements and no signups.
+
 
 ---
 # Ethereum Sepolia Faucets Comparison
@@ -55,3 +58,4 @@ Get 0.25 Sepolia ETH every 12 hours. You need to have Ethereum mainnet balance o
 | [Metamask](https://docs.metamask.io/developer-tools/faucet/) | 0–0.5 ETH | dynamic | ❌ (Metamask) | ❌ | Developer Dashboard account | ❌ | ✅ May 2026 |
 | [PoWFaucet](https://sepolia-faucet.pk910.de/) | varies | 24h+ | ✅ | ✅ | CPU mining | ✅ [repo](https://github.com/pk910/PoWFaucet) | ✅ May 2026 |
 | [Quicknode](https://faucet.quicknode.com/ethereum/sepolia) | 0.25 ETH | 12h | ✅ | ❌ (0.001 ETH) | None | ❌ | ❓ May 2026 (to rec-check) |
+| [OpenFaucet](https://openfaucet.org/ethereum-sepolia) | 0.04 ETH | 1h | ✅ | ✅  | CPU mining | ❌ | ✅ Sep 2026 |
